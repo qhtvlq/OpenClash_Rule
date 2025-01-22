@@ -9,4 +9,4 @@ jobs:
     steps:
     - name: Download Raw File
       run: |
-        curl -O ori_temp.ini https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash_Mainland.ini
+        curl -O https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/refs/heads/main/cfg/Custom_Clash_Mainland.ini
